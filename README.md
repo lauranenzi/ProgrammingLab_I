@@ -1,6 +1,7 @@
 # LABORATORIO DI PROGRAMMAZIONE I
 
 Sito web del corso "LABORATORIO DI PROGRAMMAZIONE I" per Intelligenza Artificiale e per Statistica dell'Università degli studi di Trieste.
+Se avete osservazioni/commenti/consigli sul corso potete inserirli in maniera anonima a questo [link](https://docs.google.com/forms/d/1hm22YwFfFMOL4bQTHhi986eNOkIvigTfPsI7ZurzNdw/edit)
 
 ## Informazioni
 **Docente:** Laura Nenzi [lnenzi@units.it](mailto:lnenzi@units.it)
