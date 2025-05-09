@@ -70,13 +70,19 @@ La modalità d'esame è la seguente:
 - La prova orale si sostiene solo nell'appello in cui si svolge lo scritto, ed in date e orari concordati col docente.
 
 ## Appelli d'esame
-I semestre:
+Sessione Invernale:
 - 7 Febbraio
      - 1a turno: 9:30-12:30 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
      - 1b turno: 9:30-12:30 Aula 3 A ed. H2Bis (32 posti)
 - 27 Febbraio
      - 1a turno: 14:00-17:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
      - 1b turno: 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
+
+Sessione Estiva:
+- 24 Giugno: 10:00-13:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+   
+- 22 Luglio: 10:00-13:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+   
 
 
 ## Licenza d'uso
