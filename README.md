@@ -79,7 +79,7 @@ Sessione Invernale:
      - 1b turno: 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
 
 Sessione Estiva:
-- 24 Giugno: 10:00-13:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+- 27 Giugno: 10:00-13:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
    
 - 22 Luglio: 10:00-13:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
    
