@@ -13,6 +13,7 @@ Se avete osservazioni/commenti/consigli sul corso potete inserirli in maniera an
 **Materiale:** Ci sono le [dispense](Dispense_Laboratorio_Programmazione_1_new_version.pdf) che saranno aggiornate lezione dopo lezione e ci sono le  [slides](slides), che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
 ## News
+- [10/06/2025] Le modalità di esame sono state aggiornate considerando l'uso della piattaforma Moodle.
 - [28/02/2025] Le lezioni per il Laboratorio di Programmazione 2 inizieranno la settimana successiva, Giovedì 13 Marzo.
 - [28/02/2025] Orali e Visioni esami secondo appello Giovedì 6 Marzo, ore 10, aula 2A Morin, Edificio H2Bis.
 - [19/02/2025] Orali e Visioni esami primo appello saranno Lunedì 24 Febbraio in aula T_C ed D dalle 10 alle 14.  
@@ -63,7 +64,8 @@ Se avete osservazioni/commenti/consigli sul corso potete inserirli in maniera an
 
 ## Modalità di esame
 La modalità d'esame è la seguente:
-- Esame scritto di 3 ore al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code. La connessione internet non sarà presente. L'aula dipenderà da quanti siete e se siete veramente troppi dovremmo fare una sessione pomeridiana. L'aula sarà comunicata il giorno prima dell'esame quando saranno chiuse le iscrizioni.
+- Esame scritto di 3 ore al computer in un'aula d'informatica dell'università. Le aule di informatica dove farete l'esame avranno computer tutti forniti direttamente con Visual Studio Code.
+- La connessione internet non sarà presente ma potrete accedere alla pagina del corso su Moodle,  [link](https://moodle2.units.it/course/view.php?id=14387). Il giorno dell'esame troverete sulla pagine del corso su Moodle il testo dell'esame e dovrete caricare sulla stessa piattaforma l'elaborato finale. È essenziale quindi che chiunque voglia fare l'esame sia iscritto al corso del laboratorio su Moodle. 
 - L’ultima lezione faremo un’esercitazione\simulazione d’esame
 - Possono sostenere l'esame solo gli studenti che hanno passato la parte del prof. Caravagna.
 - L’orale è facoltativo se lo scritto è >= 18, obbligatorio se il voto è 16,17 ed obbligatorio a discrezione del docente se vengono rilevate dele irregolarità
@@ -79,9 +81,9 @@ Sessione Invernale:
      - 1b turno: 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
 
 Sessione Estiva:
-- 27 Giugno: 10:00-13:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+- 27 Giugno: 10:00-13:00 Laboratorio Informatico  3A in nell'Edificio H2 bis (36 posti)
    
-- 22 Luglio: 10:00-13:00 Laboratorio Informatico Nettuno e Sun nell'Edificio C1  (40 posti + 15 posti)
+- 22 Luglio: 10:00-13:00 Laboratorio Informatico  3A in nell'Edificio H2 bis (36 posti)
    
 
 
