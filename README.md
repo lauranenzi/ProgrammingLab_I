@@ -81,9 +81,9 @@ Sessione Invernale:
      - 1b turno: 14:00-17:00  Aula 3 A ed. H2Bis (32 posti)
 
 Sessione Estiva:
-- 27 Giugno: 10:00-13:00 Laboratorio Informatico inf 01 in nell'Edificio D 
+- 27 Giugno: 10:00-13:00 Laboratorio Informatico 3A nell'Edificio H2 bis (36 posti)
    
-- 22 Luglio: 10:00-13:00 Laboratorio Informatico 3A in nell'Edificio H2 bis (36 posti)
+- 22 Luglio: 10:00-13:00 Laboratorio Informatico 3A nell'Edificio H2 bis (36 posti)
    
 
 
