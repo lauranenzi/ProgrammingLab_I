@@ -84,8 +84,13 @@ Sessione Estiva:
 - 27 Giugno: 10:00-13:00 Laboratorio Informatico 3A nell'Edificio H2 bis (36 posti)
    
 - 22 Luglio: 10:00-13:00 Laboratorio Informatico 3A nell'Edificio H2 bis (36 posti)
-   
 
+- 28 Agosto: 10:00-13:00 Laboratorio Informatico 3A nell'Edificio H2 bis (36 posti)
+
+- 11 Settembre: Aula 4 inf nell'Edificio D
+
+
+   
 
 ## Licenza d'uso
 
