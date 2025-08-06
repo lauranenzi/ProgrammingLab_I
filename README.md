@@ -13,6 +13,7 @@ Se avete osservazioni/commenti/consigli sul corso potete inserirli in maniera an
 **Materiale:** Ci sono le [dispense](Dispense_Laboratorio_Programmazione_1_new_version.pdf) che saranno aggiornate lezione dopo lezione e ci sono le  [slides](slides), che trovate qui sotto, assieme agli esercizi (sia proposti dai tutor che in genere uno alla fine di ogni lezione) di cui verranno pubblicate alcune soluzioni. Essendo un corso di laboratorio, non c'è un vero e proprio libro di testo di riferimento. 
 
 ## News
+- [06/08/2025] Aggiunta cartella con i testi degli appelli d'esame
 - [10/06/2025] Le modalità di esame sono state aggiornate considerando l'uso della piattaforma Moodle.
 - [28/02/2025] Le lezioni per il Laboratorio di Programmazione 2 inizieranno la settimana successiva, Giovedì 13 Marzo.
 - [28/02/2025] Orali e Visioni esami secondo appello Giovedì 6 Marzo, ore 10, aula 2A Morin, Edificio H2Bis.
